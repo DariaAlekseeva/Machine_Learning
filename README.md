@@ -1,0 +1,11 @@
+# Machine_Learning
+## Udacity
+
+This repository contains my lessons' notes and codes from Udacity Machine Learning course.
+There are images in .png format and code files in .ipynb format.
+
+Output in HTML format through nbviewer:
+
+1. Feature selection
+http://nbviewer.ipython.org/github/DariaAlekseeva/Machine_Learning/blob/master/Feature_selection.ipynb
+2. PCA
