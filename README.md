@@ -6,6 +6,8 @@ There are images in .png format and code files in .ipynb format.
 
 Output in HTML format through nbviewer:
 
-1. Feature selection
+1. Naive Bayes
+http://nbviewer.ipython.org/github/DariaAlekseeva/Machine_Learning/blob/master/Naive_Bayes.ipynb
+2. Feature selection
 http://nbviewer.ipython.org/github/DariaAlekseeva/Machine_Learning/blob/master/Feature_selection.ipynb
-2. PCA
+3. PCA
