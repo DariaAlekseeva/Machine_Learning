@@ -20,3 +20,6 @@ http://nbviewer.ipython.org/github/DariaAlekseeva/Machine_Learning/blob/master/P
 http://nbviewer.ipython.org/github/DariaAlekseeva/Machine_Learning/blob/master/Validation.ipynb
 
 5. Evaluation Metrics  http://nbviewer.ipython.org/github/DariaAlekseeva/Machine_Learning/blob/master/Evaluation_Metrics.ipynb
+
+6. Machine Learning Summary  
+https://github.com/DariaAlekseeva/Machine_Learning/blob/master/Machine_Learning_Summary.ipynb
